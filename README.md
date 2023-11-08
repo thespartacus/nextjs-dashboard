@@ -1,3 +1,1 @@
 # nextjs-dashboard
-
-test
